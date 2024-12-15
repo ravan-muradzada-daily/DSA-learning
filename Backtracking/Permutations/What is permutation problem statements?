@@ -1,0 +1,8 @@
+Permutation problem is one of the most crucial problems which is related to backtracking. It helps to understand backtracking more deeply. 
+Permutations are about arrays. 
+That is possible all permutations of the array with the same elements with the same occurencies.
+Like, imagine our main array is [1, 2, 3]. 
+The permutations of that array are [1, 2, 3]; [1, 3, 2]; [2, 1, 3]; [2, 3, 1]; [3, 1, 2]; [3, 2, 1].
+
+In the next problems we will be given array itself and wanted find all possible permutations of the array. 
+(The given array versions will be different in the problems).

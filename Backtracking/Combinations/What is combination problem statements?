@@ -1,0 +1,8 @@
+In mathematics and combinatorics, a combination refers to a selection of items from a larger set, where the order of selection 
+does not matter. In other words, combinations are different from permutations in that permutations take into account 
+the order of selection, while combinations do not.
+
+Such us [a, b, c] = [b, a, c] = [c, a, b] are the same combinations, so they are considered as the duplicates.
+
+In this section, we will see some problems related to combinations.
+
